@@ -1,2 +1,3 @@
 # testgit
-include my_layout.xml and recyler_view.xmls
+include my_layout.xml and recyler_view.xml
+
